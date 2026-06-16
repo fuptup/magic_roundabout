@@ -1,0 +1,44 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Unity memory captures
+[Mm]emoryCaptures/
+
+# Unity asset metadata backups
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Visual Studio and JetBrains Rider generated files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity crash and diagnostics output
+sysinfo.txt
+*.stackdump
+
+# Auto-generated package manager files
+Packages/packages-lock.json.meta
